@@ -1,3 +1,3 @@
 # Dynamic-Plot
 
-https://imgflip.com/gif/4yrolq
+![Alt Text](https://imgflip.com/gif/4yrolq)
